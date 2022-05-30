@@ -1,1 +1,1 @@
-ls = [int(i for i in input().split())]
+dat = [int(i for i in input().split())]
